@@ -1,0 +1,3 @@
+Sensasi Ketan Susu website source project.
+Open README.md for setup instructions.
+Run npm install, configure .env.local, then npm run dev.
